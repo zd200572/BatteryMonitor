@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 外圈：电量计刻度环 -->
+    <path
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
+        android:strokeColor="#46FFFFFF"
+        android:strokeWidth="2.2"
+        android:fillColor="#00000000" />
+
+    <!-- 闪电 -->
+    <path
+        android:pathData="M40,26 L40,56.8 L48.4,56.8 L48.4,82 L68,48.4 L56.8,48.4 L68,26 Z"
+        android:fillColor="#FFFFFFFF" />
+</vector>
